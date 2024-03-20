@@ -1,0 +1,41 @@
+.hehe {
+    background: linear-gradient(300deg, #00bfff, #34449e, #10ce7f);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .d-block {border-radius: 300px;}
+
+.col-lg-4 { margin-top: 100px; 
+}
+.haha {border-radius: 200px;}
+.fw-normal {padding-left: 60px;}
+.nono {display: flex;
+  justify-content: center;
+text-align: center;
+background-color:aliceblue;}
+.dada{display: flex;
+float: left;}
+.juju {text-align: center;
+height: 100vh;
+background-color:ghostwhite;}
+body{background-color:honeydew;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;}
+.ahh {background-color:lio;
+  color: red;
+text-align:left;}
+
+.meme {background-color:#34449e;}
